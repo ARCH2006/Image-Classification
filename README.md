@@ -5,12 +5,14 @@
 To Develop a convolutional deep neural network for image classification and to verify the response for new images.
 
 ## Problem Statement and Dataset
+Develop a Fashion Item Classification System using a Convolutional Neural Network (CNN) to classify images from the Fashion-MNIST dataset. The model should accurately categorize grayscale images of clothing items into one of 10 classes, such as T-shirts, trousers, pullovers, dresses, coats, sandals, shirts, sneakers, bags, and ankle boots.
 
-Include the Problem Statement and Dataset.
+![image](https://github.com/user-attachments/assets/4df6dfa4-f5ae-430d-b0b5-7a47c3c274e2)
+
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+
 
 ## DESIGN STEPS
 
